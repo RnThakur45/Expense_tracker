@@ -31,7 +31,7 @@ The **Personal Expense Tracker** is a simple command-line Python application tha
 ## 📂 Project Structure
 
 ```
-expense_tracker/
+Expense_tracker/
 │
 ├── expense_tracker.py   # Main Python application
 ├── expenses.csv         # Auto-generated data file
